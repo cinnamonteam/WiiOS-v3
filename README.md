@@ -9,7 +9,7 @@ A new PPTOS created by the Cinnamon Team (formerly known as the PieOS Team).
 
 Click `Code > Download ZIP` at the top of this repository, like the image below:
 
-![Image](./src/readme/images/DownloadZIP.svg)
+[![Image](./src/readme/images/DownloadZIP.svg)](https://github.com/cinnamonteam/WiiOS-v3/archive/refs/heads/master.zip)
 
 or [click here for a direct ZIP download.](https://github.com/cinnamonteam/WiiOS-v3/archive/refs/heads/master.zip)
 
