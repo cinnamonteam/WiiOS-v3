@@ -1,6 +1,6 @@
 # Source Folder
 
-**NOTE: Build 2 is currently not available.**
+**NOTE: A pptm build is currently not available.**
 
 These are the source files used for compiling into a `*.pptx` or `*.pptm` file.
 
