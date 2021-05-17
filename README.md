@@ -2,6 +2,10 @@
 
 A new PPTOS created by the Cinnamon Team (formerly known as the PieOS Team).
 
+## Releases
+
+You can find prebuilt releases [here](https://github.com/cinnamonteam/WiiOS-v3/releases/).
+
 ## Compiling
 
 <details>
@@ -13,10 +17,8 @@ Click `Code > Download ZIP` at the top of this repository, like the image below:
 
 or [click here for a direct ZIP download.](https://github.com/cinnamonteam/WiiOS-v3/archive/refs/heads/master.zip)
 
-Unzip the file and open the `src` directory. 
+Unzip the file and open the `src` directory.
 </details>
-
-<br>
 
 Open your terminal and clone this repository.
 
