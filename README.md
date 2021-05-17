@@ -13,7 +13,7 @@ You can find prebuilt releases [here](https://github.com/cinnamonteam/WiiOS-v3/r
 
 Click `Code > Download ZIP` at the top of this repository, like the image below:
 
-[![Image](./src/readme/images/DownloadZIP.svg)](https://github.com/cinnamonteam/WiiOS-v3/archive/refs/heads/master.zip)
+[<img src="./src/readme/images/DownloadZIP.svg" align="right">](https://github.com/cinnamonteam/WiiOS-v3/archive/refs/heads/master.zip)
 
 or [click here for a direct ZIP download.](https://github.com/cinnamonteam/WiiOS-v3/archive/refs/heads/master.zip)
 
